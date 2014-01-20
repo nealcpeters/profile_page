@@ -1,0 +1,24 @@
+LOG:  database system was shut down at 2014-01-20 16:23:52 CST
+LOG:  WAL file is from different database system: WAL file database system identifier is 5971105708020462475, pg_control database system identifier is 5971102753083072347.
+LOG:  invalid primary checkpoint record
+LOG:  WAL file is from different database system: WAL file database system identifier is 5971105708020462475, pg_control database system identifier is 5971102753083072347.
+LOG:  invalid secondary checkpoint record
+PANIC:  could not locate a valid checkpoint record
+LOG:  startup process (PID 6341) was terminated by signal 6: Abort trap
+LOG:  aborting startup due to startup process failure
+LOG:  database system was shut down at 2014-01-20 16:23:52 CST
+LOG:  WAL file is from different database system: WAL file database system identifier is 5971105708020462475, pg_control database system identifier is 5971102753083072347.
+LOG:  invalid primary checkpoint record
+LOG:  WAL file is from different database system: WAL file database system identifier is 5971105708020462475, pg_control database system identifier is 5971102753083072347.
+LOG:  invalid secondary checkpoint record
+PANIC:  could not locate a valid checkpoint record
+LOG:  startup process (PID 6354) was terminated by signal 6: Abort trap
+LOG:  aborting startup due to startup process failure
+LOG:  database system was shut down at 2014-01-20 16:23:52 CST
+LOG:  WAL file is from different database system: WAL file database system identifier is 5971105708020462475, pg_control database system identifier is 5971102753083072347.
+LOG:  invalid primary checkpoint record
+LOG:  WAL file is from different database system: WAL file database system identifier is 5971105708020462475, pg_control database system identifier is 5971102753083072347.
+LOG:  invalid secondary checkpoint record
+PANIC:  could not locate a valid checkpoint record
+LOG:  startup process (PID 6365) was terminated by signal 6: Abort trap
+LOG:  aborting startup due to startup process failure
